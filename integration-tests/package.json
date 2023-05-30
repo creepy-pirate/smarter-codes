@@ -1,0 +1,13 @@
+{
+  "name": "integration-test",
+  "version": "1.0.0",
+  "description": "Integration test script",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "request-promise": "^4.2.6",
+    "tape": "^5.0.1"
+  }
+}
